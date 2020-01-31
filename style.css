@@ -1,0 +1,83 @@
+#twittler{
+    font-size: 50px;
+    color: white;
+    text-shadow: 2px 2px black;
+    text-align: center;
+}
+#head{
+    box-sizing: border-box;
+    background-color: rgb(192, 230, 233);
+    margin: 30px 30px 30px 30px;
+    padding: 10px;
+    border: solid 5px rgb(137, 210, 243);
+}
+
+#w{
+    box-sizing: border-box;
+    background-color: rgb(192, 230, 233);
+    margin: 30px 30px 0px 30px;
+    padding-top: 30px;
+    padding: 20px;
+}
+
+.com{
+    box-sizing: border-box;
+    background-color: rgb(94, 92, 240);
+    margin: 15px 30px 0px 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.msg{
+    box-sizing: border-box;
+    background-color: rgb(192, 230, 233);
+    margin: 0px 30px 30px 30px;
+    padding: 20px;
+}
+.writer{
+   font-weight: bold;
+}
+.day{
+    position: absolute;
+    left: 530px;
+}
+#list{
+    box-sizing: border-box;
+    margin: -10px 0px 0px 0px;
+    list-style: none;
+    padding: 0px;
+}
+#check{
+    padding: 8px;
+    text-align: center;
+    box-sizing: border-box;
+    width: 150px;
+    margin: 0px 0px 0px 20px;
+    font-weight: bold;
+}
+#name{
+    box-sizing: border-box;
+    font-weight: bold;
+    margin: -10px 0px 0px 0px;
+}
+#comment{
+    box-sizing: border-box;
+    font-weight: bold;
+    margin: 10px 0px 0px 0px;
+}
+#Tweet{
+    padding: 8px;
+    text-align: center;
+    box-sizing: border-box;
+
+    font-size: 15px;
+    margin: 10px 0px -10px 0px;
+    font-weight: bold;
+}
+#inputcom{
+    box-sizing: border-box;
+    width: 500px;
+    height: 80px;
+    margin: 10px 0px 0px 0px;
+
+}
